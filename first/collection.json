@@ -1,7 +1,7 @@
 {
   "name": "Robots",
   "description": "Robots collection",
-  "image": "",
-  "cover_image": "",
+  "image": "https://raw.githubusercontent.com/aSpite/nft-test-meta/main/first/collection.jpg",
+  "cover_image": "https://raw.githubusercontent.com/aSpite/nft-test-meta/main/first/collection.jpg",
   "social_links": []
 }
